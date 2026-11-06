@@ -1,34 +1,82 @@
-# Hi, I'm Pranav
+<p align="center">
+  <a href="https://github.com/lucide-icons/lucide">
+    <img src="https://lucide.dev/package-logos/lucide-react.svg" alt="Lucide icon library for React applications." width="540">
+  </a>
+</p>
 
-I question how things work, and when I can't find a solution, I build my own.
+<p align="center">
+Lucide icon library for React applications.
+</p>
 
-I'm a Grade 10 student at National Public School Whitefield in Bangalore, India. I'm interested in artificial intelligence, theoretical physics, mathematics and educational technology. I focus on a small number of substantial projects, and I try to be clear about what's finished, what's in progress and what's only planned.
+<div align="center">
 
-**Portfolio:** [pranavsaiseelam25-alt.github.io](https://pranavsaiseelam25-alt.github.io)
+  [![npm](https://img.shields.io/npm/v/lucide-react?color=blue)](https://www.npmjs.com/package/lucide-react)
+  ![NPM Downloads](https://img.shields.io/npm/dw/lucide-react)
+  [![License](https://img.shields.io/badge/license-ISC-green)](https://lucide.dev/license)
+</div>
 
-## What I'm working on
+<p align="center">
+  <a href="https://lucide.dev/guide/">About</a>
+  ·
+  <a href="https://lucide.dev/icons/">Icons</a>
+  ·
+  <a href="https://lucide.dev/guide/react">Documentation</a>
+  ·
+  <a href="https://lucide.dev/license">License</a>
+</p>
 
-| Project | What it is | Status |
-| --- | --- | --- |
-| **SAGE** | A local-first personal AI assistant for Windows, built to understand a request, carry out authorized actions and verify the result | Phase 1 implemented, live verification in progress |
-| **VIVEKA** | An adaptive platform that teaches English through a learner's preferred language | Early backend development |
-| **NeuroCube** | An exploratory initiative on cube-based cognitive-motor activities, under Ignite Youth Community | Early-stage research, not clinically validated |
-| **Vaxaliaa** | A web-design venture helping tuition centres build a professional online presence | Early stage, no clients yet |
-| **Quantum entanglement research** | A planned student research project on a well-defined topic | Planned for Grade 11 |
+# Lucide React
 
-SAGE and VIVEKA run locally for now. I'll publish code here when it's ready to share.
+Implementation of the Lucide icon library for React applications.
 
-## Tools I use
+## Installation
 
-- **Languages:** Python, TypeScript
-- **Backend:** FastAPI, SQLAlchemy, SQLite
-- **Frontend and desktop:** React, pywebview
-- **Local AI:** Ollama, Qwen 2.5 3B, nomic-embed-text
+```sh
+pnpm add lucide-react
+```
 
-## Outside of code
+```sh
+npm install lucide-react
+```
 
-I'm a competitive speedcuber, with official bests of 21.92 seconds in 3x3 and 5.92 seconds in 2x2 ([WCA profile](https://www.worldcubeassociation.org/persons/2026ROYA01)). I also play volleyball and explore astronomy and theoretical physics on my own.
+```sh
+yarn add lucide-react
+```
 
-## Find me
+```sh
+bun add lucide-react
+```
 
-[Portfolio](https://pranavsaiseelam25-alt.github.io) · [LinkedIn](https://www.linkedin.com/in/pranav-seelam-189214412/)
+## Documentation
+
+For full documentation, visit [lucide.dev](https://lucide.dev/guide/packages/lucide-react)
+
+## Community
+
+Join the [Discord server](https://discord.gg/EH6nSts) to chat with the maintainers and other users.
+
+## License
+
+Lucide is licensed under the ISC license. See [LICENSE](https://lucide.dev/license).
+
+[//]: <> (Sponsors)
+
+## Sponsors
+
+<a href="https://vercel.com?utm_source=lucide&utm_campaign=oss">
+  <img src="https://lucide.dev/vercel.svg" alt="Powered by Vercel" width="200" />
+</a>
+
+[//]: <> (Sponsor tiers start)
+
+### Bronze 🥉
+
+<a href="https://about.sourcegraph.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/sponsors/dark/sourcegraph.svg" /><img src="https://lucide.dev/sponsors/sourcegraph.svg" height="48" alt="Sourcegraph – Understand, fix, and automate across your codebase with Sourcegraph's code intelligence platform" /></picture></a>
+&nbsp;&nbsp;
+<a href="https://opencollective.com/zephyr-cloud"><picture><source media="(prefers-color-scheme: dark)" srcset="https://lucide.dev/sponsors/dark/zephyr-cloud.svg" /><img src="https://lucide.dev/sponsors/zephyr-cloud.svg" height="48" alt="Zephyr Cloud" /></picture></a>
+
+[//]: <> (Sponsor tiers end)
+
+### Other contributors 💸
+
+You can find all our past and non-recurring financial contributors at [our Open Collective page](https://opencollective.com/lucide-icons).
